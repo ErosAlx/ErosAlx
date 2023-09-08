@@ -1,4 +1,5 @@
-![unnamed](https://github.com/ErosAlx/ErosAlx/assets/140129539/ee1cb181-53e0-4651-a97d-33054605b02a)
+![image](https://github.com/ErosAlx/ErosAlx/assets/140129539/e119139c-7ce4-4a48-a872-e5ddc1ffd91d)
+
 👋 Hi, I’m @ErosAlx, a new software engineer student in the ALX SE Program (cohort19)!
 
 👀 I’m interested in exploring the vast world of software development, from building efficient algorithms to crafting user-friendly interfaces. I'm also keen on staying updated with the latest trends and technologies in the tech industry.
