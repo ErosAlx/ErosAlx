@@ -9,6 +9,6 @@
 
 💞️ I’m looking to collaborate on innovative projects that challenge my skills and allow me to contribute meaningfully to a team. Whether it's developing a cutting-edge mobile app or working on a groundbreaking machine learning project, I'm eager to collaborate with like-minded individuals who share a passion for creating exceptional software.
 
-📫 How to reach me: Feel free to connect with me right here on this platform, or you can reach out to me via email at eros.alx@example.com. I'm always open to networking, discussing exciting projects, or just having a chat about all things tech! Let's connect and build some amazing software together. 😊🚀
+📫 How to reach me: Feel free to connect with me right here on this platform, or you can reach out to me via email at erosalx1@gmail.com. I'm always open to networking, discussing exciting projects, or just having a chat about all things tech! Let's connect and build some amazing software together. 😊🚀
 ErosAlx/ErosAlx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
